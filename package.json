@@ -2,7 +2,7 @@
   "name": "universe",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://universe.github.io",
+  "homepage": "https://deutshes.github.io",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
